@@ -1,0 +1,18 @@
+# 操作系统自动生成的文件
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器临时文件
+*.tmp
+*.swp
+~$*
+
+# 常见依赖/输出目录（以后写代码会用到）
+node_modules/
+__pycache__/
+*.log
+
+# 本地配置和密钥，永远不要提交
+.env
+*.pem
